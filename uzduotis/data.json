@@ -1,0 +1,77 @@
+{
+    "korteles": [
+        {
+            "title": "Video 1",
+            "description": "This is a video about something interesting.",
+            "thumbnail": "thumbnail1.jpg"
+          },
+          {
+            "title": "Video 2",
+            "description": "This is another video about something interesting.",
+            "thumbnail": "thumbnail2.jpg"
+          },
+          {
+            "title": "Video 3",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail3.jpg"
+          },
+          {
+            "title": "Video 4",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail4.jpg"
+          },
+          {
+            "title": "Video 5",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail5.jpg"
+          },
+          {
+            "title": "Video 6",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail6.jpg"
+          },
+          {
+            "title": "Video 7",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail7.jpg"
+          },
+          {
+            "title": "Video 8",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail8.jpg"
+          },
+          {
+            "title": "Video 9",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail9.jpg"
+          },
+          {
+            "title": "Video 10",
+            "description": "This is yet another video about something interesting.",
+            "thumbnail": "thumbnail10.jpg"
+          }
+    ],
+    "subscriptions": [
+        {
+            "title": "Channel 1",
+            "thumbnail": "channel1.jpg"
+          },
+          {
+            "title": "Channel 2",
+            "thumbnail": "channel2.jpg"
+          },
+          {
+            "title": "Channel 3",
+            "thumbnail": "channel3.jpg"
+          },
+          {
+            "title": "Channel 4",
+            "thumbnail": "channel4.jpg"
+          },
+          {
+            "title": "Channel 5",
+            "thumbnail": "channel5.jpg"
+      }
+    ]
+  }
+  
